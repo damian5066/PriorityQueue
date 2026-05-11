@@ -1,0 +1,17 @@
+struktura;rozmiar;insert_ns;find_max_ns;extract_max_ns;modify_key_ns;return_size_ns
+Kopiec_binarny;5000;54;25;179;2242;24
+Tablica_dynamiczna;5000;35;3918;4085;2883;25
+Kopiec_binarny;8000;51;26;192;3563;22
+Tablica_dynamiczna;8000;36;6178;6187;4369;24
+Kopiec_binarny;10000;52;26;192;4029;42
+Tablica_dynamiczna;10000;35;7616;7649;5240;54
+Kopiec_binarny;16000;95;26;194;6160;25
+Tablica_dynamiczna;16000;34;12245;12269;8234;27
+Kopiec_binarny;20000;49;28;214;7463;24
+Tablica_dynamiczna;20000;33;15383;15982;10315;48
+Kopiec_binarny;40000;45;26;229;14715;22
+Tablica_dynamiczna;40000;33;31966;31574;19396;26
+Kopiec_binarny;60000;51;29;400;17421;28
+Tablica_dynamiczna;60000;35;47206;53855;27903;25
+Kopiec_binarny;100000;82;27;242;29569;49
+Tablica_dynamiczna;100000;46;76198;76933;34894;50
